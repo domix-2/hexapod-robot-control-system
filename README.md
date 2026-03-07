@@ -44,19 +44,14 @@ Main components used in the robot:
 - 3 × 18650 Li-ion batteries
 - Buck converters for voltage regulation
 - Microswitches for ground contact detection (possible expansion of robot movement)
+![1000014631](https://github.com/user-attachments/assets/3cdeeb32-c403-4886-8f11-b5696e57c6bf)
 
 **Robot Features**
 
-Six-legged walking robot
-
-Inverse kinematics based leg movement
-
-Stable walking gait
-
-Bluetooth control through mobile application
-
-Hand gesture recognition using computer vision
-
-Real-time sensor data monitoring
-
-Modular control architecture
+- Six-legged walking robot
+- Inverse kinematics based leg movement
+- Stable walking gait
+- Bluetooth control through mobile application
+- Hand gesture recognition using computer vision
+- Real-time sensor data monitoring
+- Modular control architecture
