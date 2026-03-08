@@ -44,6 +44,7 @@ Main components used in the robot:
 - 3 × 18650 Li-ion batteries
 - Buck converters for voltage regulation
 - Microswitches for ground contact detection (possible expansion of robot movement)
+
 ![1000014631](https://github.com/user-attachments/assets/3cdeeb32-c403-4886-8f11-b5696e57c6bf)
 
 **Robot Features**
@@ -55,3 +56,14 @@ Main components used in the robot:
 - Hand gesture recognition using computer vision
 - Real-time sensor data monitoring
 - Modular control architecture
+
+## Author
+
+Domagoj Špeljko  
+Mechanical Engineer (mag.ing.mech)
+
+Master's degree project focused on robotics, embedded systems and computer vision.
+
+## License
+
+This project is released for educational and research purposes.
