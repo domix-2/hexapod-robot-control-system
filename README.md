@@ -59,7 +59,7 @@ Main components used in the robot:
 
 ## Author
 
-Domagoj 
+Domagoj - 
 Mechanical Engineer (mag.ing.mech)
 
 Master's degree project focused on robotics, embedded systems and computer vision.
