@@ -1,5 +1,4 @@
 /*
- * BLUETOOTH CONTROL - PRILAGOĐENO ZA TVOJU MIT APP INVENTOR APLIKACIJU
  * Prepoznaje jednoslovne komande: F=naprijed, B=nazad, L=lijevo, R=desno, S=stop, H=home
  */
 
